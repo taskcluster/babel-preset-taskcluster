@@ -1,6 +1,6 @@
 {
   "name": "babel-preset-taskcluster",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Babel Presets for Taskcluster",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git@github.com:taskcluster/babel-preset-taskcluster.git"
   },
-  "license": "ISC",
+  "license": "MPL-2.0",
   "bugs": {
     "url": "https://github.com/taskcluster/babel-preset-taskcluster/issues"
   },
